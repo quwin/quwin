@@ -43,55 +43,60 @@ A full-stack computer science junior at California State University - Sacramento
 <!-- ![](./profile/stats.svg) -->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.59%20million%20lines%20of%20code-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 853.3 kB Used in GitHub's Storage 
+> 🏆 302 Contributions in the Year 2026
  > 
-> 🏆 931 Contributions in the Year 2026
+> 📦 853.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 33 Public Repositories 
  > 
-> 🔑 12 Private Repositories 
+> 🔑 12 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                365 commits         ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-🌆 Daytime                392 commits         ███████░░░░░░░░░░░░░░░░░░   26.03 % 
-🌃 Evening                451 commits         ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-🌙 Night                  298 commits         █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+🌞 Morning    183 commits    █████████░░░░░░░░░░░░░░░░   36.45% 
+🌆 Daytime    157 commits    ███████░░░░░░░░░░░░░░░░░░   31.27% 
+🌃 Evening    152 commits    ███████░░░░░░░░░░░░░░░░░░   30.28% 
+🌙 Night      10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99%
+
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   212 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Tuesday                  334 commits         ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
-Wednesday                460 commits         ████████░░░░░░░░░░░░░░░░░   30.54 % 
-Thursday                 98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-Friday                   126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-Saturday                 144 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Sunday                   132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Monday       63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.55% 
+Tuesday      89 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.73% 
+Wednesday    75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.94% 
+Thursday     72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.34% 
+Friday       53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.56% 
+Saturday     65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.95% 
+Sunday       85 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.93%
+
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+```
 
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Markdown                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Rust                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   26.92% 
+C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
+Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
+Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+
 ```
 
 
 
-
- Last Updated on 08/07/2026 14:54:49 UTC
+ Last Updated on 10/07/2026
 <!--END_SECTION:waka-->
 
 <!--
