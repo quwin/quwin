@@ -43,7 +43,7 @@ A full-stack computer science junior at California State University - Sacramento
 <!-- ![](./profile/stats.svg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
@@ -86,15 +86,16 @@ Sunday       97 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 mins              ████████████████████░░░░░   82.91% 
-Git                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   7.27% 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.78% 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.55% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49%
+TypeScript               8 mins              ████████████████████░░░░░   81.07% 
+Git                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   7.11% 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.68% 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.66% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
 
 🐱‍💻 Projects: 
-quwin.dev                9 mins              ██████████████████████░░░   90.67% 
-RAG Github Documentation 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   9.33%
+quwin.dev                9 mins              ██████████████████████░░░   88.66% 
+RAG Github Documentation 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   9.12% 
+infiniportal             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21%
 
 ```
 
@@ -111,7 +112,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026
+ Last Updated on 25/07/2026
 <!--END_SECTION:waka-->
 
 <!--
