@@ -43,13 +43,13 @@ A full-stack computer science junior at California State University - Sacramento
 <!-- ![](./profile/stats.svg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 367 Contributions in the Year 2026
+> 🏆 368 Contributions in the Year 2026
  > 
 > 📦 853.4 kB Used in GitHub's Storage 
  > 
@@ -62,22 +62,22 @@ A full-stack computer science junior at California State University - Sacramento
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    204 commits    █████████░░░░░░░░░░░░░░░░   36.43% 
-🌆 Daytime    170 commits    ███████░░░░░░░░░░░░░░░░░░   30.36% 
-🌃 Evening    172 commits    ███████░░░░░░░░░░░░░░░░░░   30.71% 
-🌙 Night      14 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
+🌞 Morning    206 commits    █████████░░░░░░░░░░░░░░░░   36.65% 
+🌆 Daytime    170 commits    ███████░░░░░░░░░░░░░░░░░░   30.25% 
+🌃 Evening    172 commits    ███████░░░░░░░░░░░░░░░░░░   30.6% 
+🌙 Night      14 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.49%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.21% 
-Tuesday      101 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.04% 
-Wednesday    78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.93% 
-Thursday     81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.46% 
-Friday       58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.36% 
-Saturday     71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.68% 
-Sunday       97 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.32%
+Monday       74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.17% 
+Tuesday      101 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.97% 
+Wednesday    78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.88% 
+Thursday     83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.77% 
+Friday       58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.32% 
+Saturday     71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.63% 
+Sunday       97 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.26%
 
 ```
 
@@ -86,15 +86,15 @@ Sunday       97 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 8 mins        ██████████████████████░░░   89.44% 
-HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.53% 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.62% 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.46% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
+Python                   3 hrs 8 mins        ██████████████████████░░░   89.69% 
+HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63% 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
 
 🐱‍💻 Projects: 
-Perio Specialist         3 hrs 27 mins       ████████████████████████░   98.53% 
-RAG Github Documentation 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.05% 
+Perio Specialist         3 hrs 27 mins       ████████████████████████░   98.99% 
+RAG Github Documentation 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59% 
 infiniportal             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38% 
 API Rate Limiter         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
@@ -113,7 +113,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026
+ Last Updated on 31/07/2026
 <!--END_SECTION:waka-->
 
 <!--
