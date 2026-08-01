@@ -86,17 +86,17 @@ Sunday       97 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 8 mins        ██████████████████████░░░   89.69% 
-HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63% 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
+Python                   3 hrs 32 mins       ██████████████████████░░░   90.56% 
+HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.25% 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.36% 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
 
 🐱‍💻 Projects: 
-Perio Specialist         3 hrs 27 mins       ████████████████████████░   98.99% 
-RAG Github Documentation 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59% 
-infiniportal             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38% 
-API Rate Limiter         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+Perio Specialist         3 hrs 52 mins       ████████████████████████░   99.2% 
+RAG Github Documentation 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53% 
+infiniportal             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24% 
+API Rate Limiter         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 ```
 
@@ -113,7 +113,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026
+ Last Updated on 01/08/2026
 <!--END_SECTION:waka-->
 
 <!--
