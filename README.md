@@ -86,17 +86,17 @@ Sunday       97 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 37 mins       ██████████████████████░░░   90.28% 
-HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.14% 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.82% 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
+Python                   3 hrs 44 mins       ██████████████████████░░░   90.06% 
+HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.0% 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.72% 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.34% 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62%
 
 🐱‍💻 Projects: 
-Perio Specialist         3 hrs 57 mins       ████████████████████████░   98.71% 
-ML-Perio-Bone-Loss-Detect1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52% 
-RAG Github Documentation 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51% 
-infiniportal             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23% 
+Perio Specialist         4 hrs               ████████████████████████░   96.53% 
+ML-Perio-Bone-Loss-Detect6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.72% 
+RAG Github Documentation 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5% 
+infiniportal             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22% 
 API Rate Limiter         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 ```
@@ -114,7 +114,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026
+ Last Updated on 05/08/2026
 <!--END_SECTION:waka-->
 
 <!--
