@@ -43,41 +43,41 @@ A full-stack computer science junior at California State University - Sacramento
 <!-- ![](./profile/stats.svg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2012%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 369 Contributions in the Year 2026
+> 🏆 376 Contributions in the Year 2026
  > 
 > 📦 853.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 37 Public Repositories 
  > 
 > 🔑 13 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    206 commits    █████████░░░░░░░░░░░░░░░░   36.65% 
-🌆 Daytime    170 commits    ███████░░░░░░░░░░░░░░░░░░   30.25% 
-🌃 Evening    172 commits    ███████░░░░░░░░░░░░░░░░░░   30.6% 
-🌙 Night      14 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.49%
+🌞 Morning    210 commits    █████████░░░░░░░░░░░░░░░░   37.04% 
+🌆 Daytime    170 commits    ███████░░░░░░░░░░░░░░░░░░   29.98% 
+🌃 Evening    173 commits    ███████░░░░░░░░░░░░░░░░░░   30.51% 
+🌙 Night      14 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.17% 
-Tuesday      101 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.97% 
-Wednesday    78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.88% 
-Thursday     83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.77% 
-Friday       58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.32% 
-Saturday     71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.63% 
-Sunday       97 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.26%
+Monday       74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.05% 
+Tuesday      102 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.99% 
+Wednesday    82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.46% 
+Thursday     83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.64% 
+Friday       58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.23% 
+Saturday     71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.52% 
+Sunday       97 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.11%
 
 ```
 
@@ -86,35 +86,34 @@ Sunday       97 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 44 mins       ██████████████████████░░░   90.06% 
-HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.0% 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.72% 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.34% 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62%
+Python                   52 mins             ███████████████████░░░░░░   77.12% 
+YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.29% 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.32% 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.11% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.46%
 
 🐱‍💻 Projects: 
-Perio Specialist         4 hrs               ████████████████████████░   96.53% 
-ML-Perio-Bone-Loss-Detect6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.72% 
-RAG Github Documentation 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5% 
-infiniportal             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22% 
-API Rate Limiter         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+Perio Specialist         30 mins             ███████████░░░░░░░░░░░░░░   44.91% 
+perio_kpt_parser         17 mins             ██████░░░░░░░░░░░░░░░░░░░   26.35% 
+ML-Perio-Bone-Loss-Detect15 mins             █████░░░░░░░░░░░░░░░░░░░░   22.45% 
+RAG Github Documentation 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.29%
 
 ```
 
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93% 
-Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
-C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.41%
+Rust                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14% 
+Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.69% 
+C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9%
 
 ```
 
 
 
- Last Updated on 05/08/2026
+ Last Updated on 06/08/2026
 <!--END_SECTION:waka-->
 
 <!--
