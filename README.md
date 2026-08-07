@@ -43,7 +43,7 @@ A full-stack computer science junior at California State University - Sacramento
 <!-- ![](./profile/stats.svg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
@@ -86,17 +86,18 @@ Sunday       97 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   52 mins             ███████████████████░░░░░░   77.12% 
-YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.29% 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.32% 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.11% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.46%
+Python                   3 hrs 43 mins       ████████████████████░░░░░   81.53% 
+Git Config               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.77% 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.79% 
+Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.06% 
+INI                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.38%
 
 🐱‍💻 Projects: 
-Perio Specialist         30 mins             ███████████░░░░░░░░░░░░░░   44.91% 
-perio_kpt_parser         17 mins             ██████░░░░░░░░░░░░░░░░░░░   26.35% 
-ML-Perio-Bone-Loss-Detect15 mins             █████░░░░░░░░░░░░░░░░░░░░   22.45% 
-RAG Github Documentation 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.29%
+DenPAR_kpt_mapping       3 hrs 4 mins        ████████████████░░░░░░░░░   67.44% 
+perio_kpt_parser         34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.58% 
+Perio Specialist         30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.08% 
+ML-Perio-Bone-Loss-Detect20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.34% 
+RAG Github Documentation 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55%
 
 ```
 
@@ -113,7 +114,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026
+ Last Updated on 07/08/2026
 <!--END_SECTION:waka-->
 
 <!--
