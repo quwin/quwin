@@ -43,7 +43,7 @@ A full-stack computer science junior at California State University - Sacramento
 <!-- ![](./profile/stats.svg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
@@ -86,18 +86,18 @@ Sunday       97 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 43 mins       ████████████████████░░░░░   81.53% 
-Git Config               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.77% 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.79% 
-Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.06% 
-INI                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.38%
+Python                   3 hrs 18 mins       ████████████████████░░░░░   79.84% 
+Git Config               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.46% 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
+Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.36% 
+INI                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.62%
 
 🐱‍💻 Projects: 
-DenPAR_kpt_mapping       3 hrs 4 mins        ████████████████░░░░░░░░░   67.44% 
-perio_kpt_parser         34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.58% 
-Perio Specialist         30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.08% 
-ML-Perio-Bone-Loss-Detect20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.34% 
-RAG Github Documentation 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55%
+DenPAR_kpt_mapping       3 hrs 4 mins        ██████████████████░░░░░░░   74.32% 
+perio_kpt_parser         34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.86% 
+ML-Perio-Bone-Loss-Detect20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.09% 
+Perio Specialist         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01% 
+RAG Github Documentation 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.71%
 
 ```
 
@@ -114,7 +114,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026
+ Last Updated on 08/08/2026
 <!--END_SECTION:waka-->
 
 <!--
