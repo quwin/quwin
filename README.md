@@ -86,18 +86,18 @@ Sunday       97 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 18 mins       ████████████████████░░░░░   79.84% 
-Git Config               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.46% 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
-Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.36% 
-INI                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.62%
+Python                   3 hrs 18 mins       ███████████████████░░░░░░   76.49% 
+Git Config               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+Text                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.22% 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.99% 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.64%
 
 🐱‍💻 Projects: 
-DenPAR_kpt_mapping       3 hrs 4 mins        ██████████████████░░░░░░░   74.32% 
-perio_kpt_parser         34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.86% 
-ML-Perio-Bone-Loss-Detect20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.09% 
-Perio Specialist         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01% 
-RAG Github Documentation 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.71%
+DenPAR_kpt_mapping       3 hrs 4 mins        █████████████████░░░░░░░░   71.11% 
+perio_kpt_parser         34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36% 
+ML-Perio-Bone-Loss-Detect27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
+Perio Specialist         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.93% 
+RAG Github Documentation 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64%
 
 ```
 
@@ -114,7 +114,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026
+ Last Updated on 09/08/2026
 <!--END_SECTION:waka-->
 
 <!--
