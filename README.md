@@ -43,15 +43,15 @@ A full-stack computer science junior at California State University - Sacramento
 <!-- ![](./profile/stats.svg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 394 Contributions in the Year 2026
+> 🏆 413 Contributions in the Year 2026
  > 
-> 📦 853.7 kB Used in GitHub's Storage 
+> 📦 854.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -62,22 +62,22 @@ A full-stack computer science junior at California State University - Sacramento
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    216 commits    █████████░░░░░░░░░░░░░░░░   37.18% 
-🌆 Daytime    176 commits    ███████░░░░░░░░░░░░░░░░░░   30.29% 
-🌃 Evening    175 commits    ███████░░░░░░░░░░░░░░░░░░   30.12% 
-🌙 Night      14 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41%
+🌞 Morning    223 commits    █████████░░░░░░░░░░░░░░░░   37.17% 
+🌆 Daytime    182 commits    ███████░░░░░░░░░░░░░░░░░░   30.33% 
+🌃 Evening    181 commits    ███████░░░░░░░░░░░░░░░░░░   30.17% 
+🌙 Night      14 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.43% 
-Tuesday      104 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.9% 
-Wednesday    85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
-Thursday     83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Friday       58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.98% 
-Saturday     71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.22% 
-Sunday       102 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.56%
+Monday       78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
+Tuesday      104 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.33% 
+Wednesday    91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.17% 
+Thursday     96 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
+Friday       58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.67% 
+Saturday     71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.83% 
+Sunday       102 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.0%
 
 ```
 
@@ -86,18 +86,18 @@ Sunday       102 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 45 mins       ██████████████░░░░░░░░░░░   59.03% 
-Markdown                 1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.97% 
-Rust                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.23% 
-Git Config               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.04% 
-JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.07%
+Rust                     3 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   34.31% 
+Python                   3 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   28.92% 
+Markdown                 2 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   27.99% 
+TOML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67% 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85%
 
 🐱‍💻 Projects: 
-DenPAR_kpt_mapping       3 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   31.53% 
-domain-agent-updater     2 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   25.06% 
-adaptive-choice          1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.07% 
-combat-sim               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   11.15% 
-adaptive-choice-ml       26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.54%
+combat-sim               5 hrs 9 mins        ████████████░░░░░░░░░░░░░   48.27% 
+domain-agent-updater     2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   26.29% 
+adaptive-choice          1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.59% 
+adaptive-choice-ml       26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.14% 
+hexaco-personality-genera18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.88%
 
 ```
 
@@ -114,7 +114,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026
+ Last Updated on 14/08/2026
 <!--END_SECTION:waka-->
 
 <!--
