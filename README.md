@@ -43,15 +43,15 @@ A full-stack computer science junior at California State University - Sacramento
 <!-- ![](./profile/stats.svg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 439 Contributions in the Year 2026
+> 🏆 448 Contributions in the Year 2026
  > 
-> 📦 855.3 kB Used in GitHub's Storage 
+> 📦 855.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -62,22 +62,22 @@ A full-stack computer science junior at California State University - Sacramento
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    235 commits    █████████░░░░░░░░░░░░░░░░   37.54% 
-🌆 Daytime    190 commits    ███████░░░░░░░░░░░░░░░░░░   30.35% 
-🌃 Evening    187 commits    ███████░░░░░░░░░░░░░░░░░░   29.87% 
-🌙 Night      14 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.24%
+🌞 Morning    237 commits    █████████░░░░░░░░░░░░░░░░   37.32% 
+🌆 Daytime    195 commits    ███████░░░░░░░░░░░░░░░░░░   30.71% 
+🌃 Evening    189 commits    ███████░░░░░░░░░░░░░░░░░░   29.76% 
+🌙 Night      14 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2%
 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.46% 
-Tuesday      104 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.61% 
-Wednesday    91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.54% 
-Thursday     99 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.81% 
-Friday       77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.3% 
-Saturday     75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.98% 
-Sunday       102 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.29%
+Monday       78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.28% 
+Tuesday      104 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.38% 
+Wednesday    91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.33% 
+Thursday     99 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.59% 
+Friday       77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.13% 
+Saturday     77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.13% 
+Sunday       109 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.17%
 
 ```
 
@@ -86,18 +86,18 @@ Sunday       102 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   30.65% 
-Rust                     4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   30.65% 
-Python                   3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.23% 
-TOML                     2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.05% 
-Git Config               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.48%
+Rust                     5 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   32.48% 
+Markdown                 5 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.98% 
+Python                   3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.2% 
+TOML                     2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
+JSON                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.1%
 
 🐱‍💻 Projects: 
-combat-sim               9 hrs 55 mins       ████████████████░░░░░░░░░   65.02% 
-domain-agent-updater     2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.41% 
-adaptive-choice          1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.9% 
-adaptive-choice-ml       26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.9% 
-hexaco-personality-genera18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01%
+combat-sim               11 hrs 37 mins      █████████████████░░░░░░░░   68.52% 
+domain-agent-updater     2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.57% 
+adaptive-choice          1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.81% 
+adaptive-choice-ml       26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61% 
+hexaco-personality-genera18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.81%
 
 ```
 
@@ -114,7 +114,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026
+ Last Updated on 17/08/2026
 <!--END_SECTION:waka-->
 
 <!--
