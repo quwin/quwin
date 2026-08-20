@@ -43,15 +43,15 @@ A full-stack computer science junior at California State University - Sacramento
 <!-- ![](./profile/stats.svg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 469 Contributions in the Year 2026
+> 🏆 484 Contributions in the Year 2026
  > 
-> 📦 857.6 kB Used in GitHub's Storage 
+> 📦 859.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -62,22 +62,22 @@ A full-stack computer science junior at California State University - Sacramento
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    249 commits    █████████░░░░░░░░░░░░░░░░   37.96% 
-🌆 Daytime    200 commits    ███████░░░░░░░░░░░░░░░░░░   30.49% 
-🌃 Evening    193 commits    ███████░░░░░░░░░░░░░░░░░░   29.42% 
-🌙 Night      14 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
+🌞 Morning    258 commits    █████████░░░░░░░░░░░░░░░░   38.45% 
+🌆 Daytime    202 commits    ███████░░░░░░░░░░░░░░░░░░   30.1% 
+🌃 Evening    197 commits    ███████░░░░░░░░░░░░░░░░░░   29.36% 
+🌙 Night      14 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.09%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.11% 
-Tuesday      113 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.23% 
-Wednesday    91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.87% 
-Thursday     99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.09% 
-Friday       77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.74% 
-Saturday     77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.74% 
-Sunday       113 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.23%
+Monday       86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
+Tuesday      117 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.44% 
+Wednesday    102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.2% 
+Thursday     99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.75% 
+Friday       77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.48% 
+Saturday     77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.48% 
+Sunday       113 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.84%
 
 ```
 
@@ -86,16 +86,16 @@ Sunday       113 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     6 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   42.08% 
-Markdown                 5 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   32.34% 
-TOML                     2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.01% 
-Git Config               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.32% 
-JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11%
+Rust                     7 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   40.7% 
+Markdown                 6 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   34.41% 
+TOML                     3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.53% 
+Mermaid                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.64% 
+JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.86%
 
 🐱‍💻 Projects: 
-combat-sim               15 hrs 8 mins       ████████████████████████░   97.11% 
-domain-agent-updater     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33% 
-ML-Perio-Bone-Loss-Detect5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54% 
+combat-sim               17 hrs 12 mins      ████████████████████████░   97.45% 
+domain-agent-updater     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.06% 
+ML-Perio-Bone-Loss-Detect5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48% 
 RAG Github Documentation 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 ```
@@ -113,7 +113,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026
+ Last Updated on 20/08/2026
 <!--END_SECTION:waka-->
 
 <!--
