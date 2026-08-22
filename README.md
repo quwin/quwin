@@ -43,15 +43,15 @@ A full-stack computer science junior at California State University - Sacramento
 <!-- ![](./profile/stats.svg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 491 Contributions in the Year 2026
+> 🏆 498 Contributions in the Year 2026
  > 
-> 📦 856.1 kB Used in GitHub's Storage 
+> 📦 856.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -62,9 +62,9 @@ A full-stack computer science junior at California State University - Sacramento
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    261 commits    █████████░░░░░░░░░░░░░░░░   38.61% 
-🌆 Daytime    203 commits    ███████░░░░░░░░░░░░░░░░░░   30.03% 
-🌃 Evening    198 commits    ███████░░░░░░░░░░░░░░░░░░   29.29% 
+🌞 Morning    264 commits    █████████░░░░░░░░░░░░░░░░   39.05% 
+🌆 Daytime    204 commits    ███████░░░░░░░░░░░░░░░░░░   30.18% 
+🌃 Evening    194 commits    ███████░░░░░░░░░░░░░░░░░░   28.7% 
 🌙 Night      14 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.07%
 
 ```
@@ -73,9 +73,9 @@ A full-stack computer science junior at California State University - Sacramento
 ```text
 Monday       86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.72% 
 Tuesday      115 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.01% 
-Wednesday    103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.24% 
+Wednesday    96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.2% 
 Thursday     105 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.53% 
-Friday       77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.39% 
+Friday       84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.43% 
 Saturday     77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.39% 
 Sunday       113 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.72%
 
@@ -86,15 +86,15 @@ Sunday       113 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   34.78% 
-Rust                     4 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   32.97% 
-TOML                     3 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   23.79% 
-Mermaid                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
-JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.18%
+Markdown                 5 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   35.72% 
+Rust                     4 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   31.86% 
+TOML                     2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.73% 
+Mermaid                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.41% 
+YAML                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.89%
 
 🐱‍💻 Projects: 
-combat-sim               15 hrs              ████████████████████████░   99.44% 
-ML-Perio-Bone-Loss-Detect5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
+combat-sim               14 hrs 11 mins      ████████████████████████░   99.41% 
+ML-Perio-Bone-Loss-Detect5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59%
 
 ```
 
@@ -111,7 +111,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026
+ Last Updated on 22/08/2026
 <!--END_SECTION:waka-->
 
 <!--
