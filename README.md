@@ -43,7 +43,7 @@ A full-stack computer science junior at California State University - Sacramento
 <!-- ![](./profile/stats.svg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
@@ -86,15 +86,15 @@ Sunday       113 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   35.55% 
-Rust                     4 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   33.5% 
-TOML                     1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.09% 
-Mermaid                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.9% 
-YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.86%
+Markdown                 4 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   37.44% 
+Rust                     4 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   33.61% 
+TOML                     1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.04% 
+YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.19% 
+Mermaid                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.95%
 
 🐱‍💻 Projects: 
-combat-sim               12 hrs 46 mins      ████████████████████████░   99.34% 
-ML-Perio-Bone-Loss-Detect5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66%
+combat-sim               11 hrs 57 mins      ████████████████████████░   99.3% 
+ML-Perio-Bone-Loss-Detect5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
 
 ```
 
@@ -111,7 +111,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026
+ Last Updated on 24/08/2026
 <!--END_SECTION:waka-->
 
 <!--
