@@ -86,11 +86,11 @@ Sunday       113 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   40.05% 
-Rust                     2 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   31.23% 
-TOML                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
-YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.69% 
-Mermaid                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.55%
+Rust                     4 hrs 6 mins        ███████████░░░░░░░░░░░░░░   44.04% 
+Markdown                 2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   27.57% 
+TOML                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.3% 
+YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.68% 
+Mermaid                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49%
 
 🐱‍💻 Projects: 
 combat-sim               9 hrs 19 mins       █████████████████████████   100.0%
@@ -110,7 +110,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026
+ Last Updated on 26/08/2026
 <!--END_SECTION:waka-->
 
 <!--
