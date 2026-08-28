@@ -43,7 +43,7 @@ A full-stack computer science junior at California State University - Sacramento
 <!-- ![](./profile/stats.svg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2033%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
@@ -51,7 +51,7 @@ A full-stack computer science junior at California State University - Sacramento
 
 > 🏆 503 Contributions in the Year 2026
  > 
-> 📦 880.1 kB Used in GitHub's Storage 
+> 📦 880.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -86,14 +86,14 @@ Sunday       113 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     4 hrs 27 mins       ██████████████░░░░░░░░░░░   55.6% 
-Markdown                 1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.95% 
-TOML                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.08% 
-YAML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.78% 
-CSV                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41%
+Rust                     3 hrs 40 mins       ███████████████░░░░░░░░░░   62.01% 
+Markdown                 1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   19.22% 
+YAML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.05% 
+CSV                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.62% 
+TOML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.56%
 
 🐱‍💻 Projects: 
-combat-sim               8 hrs 1 min         █████████████████████████   100.0%
+combat-sim               5 hrs 56 mins       █████████████████████████   100.0%
 
 ```
 
@@ -110,7 +110,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026
+ Last Updated on 28/08/2026
 <!--END_SECTION:waka-->
 
 <!--
