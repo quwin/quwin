@@ -43,7 +43,7 @@ A full-stack computer science junior at California State University - Sacramento
 <!-- ![](./profile/stats.svg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2057%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
@@ -86,10 +86,13 @@ Sunday       113 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     2 hrs 34 mins       █████████████████████████   100.0%
+Rust                     1 hr 24 mins        ██████████████████░░░░░░░   72.86% 
+Markdown                 22 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.09%
 
 🐱‍💻 Projects: 
-combat-sim               2 hrs 34 mins       █████████████████████████   100.0%
+combat-sim               1 hr 46 mins        ███████████████████████░░   91.91% 
+metapatterns.wiki        9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.09%
 
 ```
 
@@ -106,7 +109,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2026
+ Last Updated on 03/09/2026
 <!--END_SECTION:waka-->
 
 <!--
