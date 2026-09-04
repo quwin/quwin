@@ -43,19 +43,19 @@ A full-stack computer science junior at California State University - Sacramento
 <!-- ![](./profile/stats.svg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 504 Contributions in the Year 2026
+> 🏆 505 Contributions in the Year 2026
  > 
-> 📦 880.2 kB Used in GitHub's Storage 
+> 📦 1.3 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 39 Public Repositories 
  > 
 > 🔑 16 Private Repositories  
  > 
@@ -99,17 +99,17 @@ metapatterns.wiki        9 mins              ██░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-Rust                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   24.24% 
-C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.06%
+Python                   10 repos            ███████░░░░░░░░░░░░░░░░░░   29.41% 
+Rust                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53% 
+C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
 
 ```
 
 
 
- Last Updated on 03/09/2026
+ Last Updated on 04/09/2026
 <!--END_SECTION:waka-->
 
 <!--
