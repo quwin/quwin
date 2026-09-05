@@ -86,13 +86,18 @@ Sunday       113 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     1 hr 24 mins        ██████████████████░░░░░░░   72.86% 
-Markdown                 22 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
-Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.09%
+Markdown                 1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   27.37% 
+Rust                     1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   23.28% 
+Bash                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99% 
+Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.42% 
+Python                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.41%
 
 🐱‍💻 Projects: 
-combat-sim               1 hr 46 mins        ███████████████████████░░   91.91% 
-metapatterns.wiki        9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.09%
+combat-sim               1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   30.14% 
+lt-maker                 1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   25.93% 
+NodeSpec                 1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   22.95% 
+freebuff-pr1259          28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.81% 
+RAG Github Documentation 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.03%
 
 ```
 
@@ -109,7 +114,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026
+ Last Updated on 05/09/2026
 <!--END_SECTION:waka-->
 
 <!--
