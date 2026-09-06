@@ -43,7 +43,7 @@ A full-stack computer science junior at California State University - Sacramento
 <!-- ![](./profile/stats.svg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
@@ -86,18 +86,18 @@ Sunday       113 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   27.37% 
-Rust                     1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   23.28% 
-Bash                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99% 
-Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.42% 
-Python                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.41%
+Markdown                 1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   24.58% 
+Rust                     1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   20.78% 
+Python                   1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.87% 
+Bash                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.49% 
+Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.59%
 
 🐱‍💻 Projects: 
-combat-sim               1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   30.14% 
-lt-maker                 1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   25.93% 
-NodeSpec                 1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   22.95% 
-freebuff-pr1259          28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.81% 
-RAG Github Documentation 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.03%
+lt-maker                 2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.87% 
+combat-sim               1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   26.91% 
+NodeSpec                 1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   20.49% 
+freebuff-pr1259          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
+RAG Github Documentation 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.28%
 
 ```
 
@@ -114,7 +114,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026
+ Last Updated on 06/09/2026
 <!--END_SECTION:waka-->
 
 <!--
