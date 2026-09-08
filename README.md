@@ -49,13 +49,13 @@ A full-stack computer science junior at California State University - Sacramento
 
 **🐱 My GitHub Data** 
 
-> 🏆 505 Contributions in the Year 2026
+> 🏆 508 Contributions in the Year 2026
  > 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 39 Public Repositories 
+> 📜 40 Public Repositories 
  > 
 > 🔑 16 Private Repositories  
  > 
@@ -86,18 +86,18 @@ Sunday       113 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   24.58% 
-Rust                     1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   20.78% 
-Python                   1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.87% 
-Bash                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.49% 
-Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.59%
+Python                   1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   24.91% 
+Markdown                 1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   22.71% 
+Rust                     1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.49% 
+Bash                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Other                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.9%
 
 🐱‍💻 Projects: 
-lt-maker                 2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.87% 
-combat-sim               1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   26.91% 
-NodeSpec                 1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   20.49% 
-freebuff-pr1259          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
-RAG Github Documentation 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.28%
+lt-maker                 2 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   36.18% 
+combat-sim               1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   23.94% 
+NodeSpec                 1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.22% 
+freebuff-pr1259          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.21% 
+RAG Github Documentation 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.59%
 
 ```
 
@@ -114,7 +114,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026
+ Last Updated on 08/09/2026
 <!--END_SECTION:waka-->
 
 <!--
