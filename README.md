@@ -43,19 +43,19 @@ A full-stack computer science junior at California State University - Sacramento
 <!-- ![](./profile/stats.svg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 508 Contributions in the Year 2026
+> 🏆 510 Contributions in the Year 2026
  > 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 40 Public Repositories 
+> 📜 41 Public Repositories 
  > 
 > 🔑 16 Private Repositories  
  > 
@@ -86,18 +86,18 @@ Sunday       113 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   24.91% 
-Markdown                 1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   22.71% 
-Rust                     1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.49% 
-Bash                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Other                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.9%
+Markdown                 2 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   36.08% 
+Python                   1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   27.05% 
+Bash                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07% 
+Other                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.63% 
+JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.0%
 
 🐱‍💻 Projects: 
-lt-maker                 2 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   36.18% 
-combat-sim               1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   23.94% 
-NodeSpec                 1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.22% 
-freebuff-pr1259          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.21% 
-RAG Github Documentation 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.59%
+lt-maker                 2 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   39.3% 
+NodeSpec                 1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   19.79% 
+Agents                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.75% 
+cxyfreedom               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.09% 
+freebuff-pr1259          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.74%
 
 ```
 
@@ -114,7 +114,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026
+ Last Updated on 09/09/2026
 <!--END_SECTION:waka-->
 
 <!--
