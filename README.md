@@ -1,6 +1,6 @@
 # Hi, I'm Ethan Tran
 
-A full-stack computer science junior at California State University - Sacramento, I love designing, developing, and optimizing high-performance infrastructure, parallelizable architecture, and scalable data pipelines.
+A full-stack computer science senior at California State University - Sacramento, I love designing, developing, and optimizing high-performance infrastructure, parallelizable architecture, scalable data pipelines, and applying machine learning to tackle real-world problems.
 
 ## About Me
 
