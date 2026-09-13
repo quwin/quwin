@@ -43,7 +43,7 @@ A full-stack computer science senior at California State University - Sacramento
 <!-- ![](./profile/stats.svg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
@@ -86,18 +86,18 @@ Sunday       107 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   32.59% 
-Markdown                 1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   23.89% 
-JSON                     1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.71% 
-Rust                     1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.13% 
-Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.79%
+Python                   2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   27.26% 
+Markdown                 1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   26.01% 
+JSON                     1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.19% 
+Rust                     1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.45% 
+Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.61%
 
 🐱‍💻 Projects: 
-Agents                   3 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   38.29% 
-lt-maker                 2 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   34.22% 
-cxyfreedom               48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.78% 
-UnderTheGun-rs           31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.32% 
-datafusion               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.06%
+Agents                   3 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   42.1% 
+lt-maker                 2 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   27.82% 
+cxyfreedom               48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.7% 
+UnderTheGun-rs           31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.92% 
+datafusion               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.63%
 
 ```
 
@@ -114,7 +114,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026
+ Last Updated on 13/09/2026
 <!--END_SECTION:waka-->
 
 <!--
