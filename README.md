@@ -86,18 +86,18 @@ Sunday       107 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   27.26% 
-Markdown                 1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   26.01% 
-JSON                     1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.19% 
-Rust                     1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.45% 
-Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.61%
+Markdown                 1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   23.5% 
+Python                   1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   23.36% 
+Rust                     56 mins             █████░░░░░░░░░░░░░░░░░░░░   19.97% 
+Other                    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36% 
+JSON                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.58%
 
 🐱‍💻 Projects: 
-Agents                   3 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   42.1% 
-lt-maker                 2 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   27.82% 
-cxyfreedom               48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.7% 
-UnderTheGun-rs           31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.92% 
-datafusion               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.63%
+lt-maker                 1 hr 38 mins        ████████░░░░░░░░░░░░░░░░░   35.02% 
+Agents                   1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   30.23% 
+datafusion               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.99% 
+UnderTheGun-rs           31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.14% 
+cxyfreedom               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.19%
 
 ```
 
@@ -114,7 +114,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026
+ Last Updated on 15/09/2026
 <!--END_SECTION:waka-->
 
 <!--
