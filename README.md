@@ -43,7 +43,7 @@ A full-stack computer science senior at California State University - Sacramento
 <!-- ![](./profile/stats.svg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
@@ -86,18 +86,18 @@ Sunday       107 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   23.5% 
-Python                   1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   23.36% 
-Rust                     56 mins             █████░░░░░░░░░░░░░░░░░░░░   19.97% 
-Other                    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36% 
-JSON                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.58%
+Python                   1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   29.43% 
+Other                    56 mins             █████░░░░░░░░░░░░░░░░░░░░   20.02% 
+Rust                     56 mins             █████░░░░░░░░░░░░░░░░░░░░   19.86% 
+JSON                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.55% 
+Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.95%
 
 🐱‍💻 Projects: 
-lt-maker                 1 hr 38 mins        ████████░░░░░░░░░░░░░░░░░   35.02% 
-Agents                   1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   30.23% 
-datafusion               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.99% 
-UnderTheGun-rs           31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.14% 
-cxyfreedom               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.19%
+lt-maker                 1 hr 53 mins        ██████████░░░░░░░░░░░░░░░   39.88% 
+Agents                   1 hr                █████░░░░░░░░░░░░░░░░░░░░   21.25% 
+datafusion               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.86% 
+UnderTheGun-rs           31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.08% 
+cxyfreedom               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.54%
 
 ```
 
@@ -114,7 +114,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026
+ Last Updated on 16/09/2026
 <!--END_SECTION:waka-->
 
 <!--
