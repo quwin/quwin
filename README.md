@@ -1,6 +1,6 @@
 # Hi, I'm Ethan Tran
 
-A full-stack computer science senior at California State University - Sacramento, I love designing, developing, and optimizing high-performance infrastructure, parallelizable architecture, scalable data pipelines, and applying machine learning to tackle real-world problems.
+A Computer Science senior at CSUS focused on database systems, distributed systems, and performance-oriented software engineering. I’m especially interested in query engines, storage systems, execution engines, and the low-level infrastructure that makes data-intensive systems fast and reliable.
 
 ## About Me
 
