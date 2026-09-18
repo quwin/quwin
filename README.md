@@ -43,41 +43,41 @@ A full-stack computer science senior at California State University - Sacramento
 <!-- ![](./profile/stats.svg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2012%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 372 Contributions in the Year 2026
+> 🏆 370 Contributions in the Year 2026
  > 
-> 📦 1.3 MB Used in GitHub's Storage 
+> 📦 880.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 41 Public Repositories 
+> 📜 39 Public Repositories 
  > 
 > 🔑 16 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    239 commits    █████████░░░░░░░░░░░░░░░░   38.24% 
-🌆 Daytime    200 commits    ████████░░░░░░░░░░░░░░░░░   32.0% 
-🌃 Evening    176 commits    ███████░░░░░░░░░░░░░░░░░░   28.16% 
+🌞 Morning    239 commits    █████████░░░░░░░░░░░░░░░░   38.18% 
+🌆 Daytime    201 commits    ████████░░░░░░░░░░░░░░░░░   32.11% 
+🌃 Evening    176 commits    ███████░░░░░░░░░░░░░░░░░░   28.12% 
 🌙 Night      10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.64% 
-Tuesday      103 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.48% 
-Wednesday    84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.44% 
-Thursday     95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.2% 
-Friday       79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.64% 
-Saturday     78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.48% 
-Sunday       107 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.12%
+Monday       79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.62% 
+Tuesday      103 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.45% 
+Wednesday    84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.42% 
+Thursday     96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.34% 
+Friday       79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.62% 
+Saturday     78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.46% 
+Sunday       107 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.09%
 
 ```
 
@@ -86,18 +86,18 @@ Sunday       107 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     1 hr 21 mins        ██████████░░░░░░░░░░░░░░░   39.92% 
-JSON                     35 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.4% 
-Markdown                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.18% 
-Python                   29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.37% 
-Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.78%
+Rust                     1 hr 1 min          █████████████░░░░░░░░░░░░   54.69% 
+Python                   29 mins             ██████░░░░░░░░░░░░░░░░░░░   26.03% 
+Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.38% 
+TeX                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.71% 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67%
 
 🐱‍💻 Projects: 
-Agents                   1 hr                ███████░░░░░░░░░░░░░░░░░░   29.47% 
-datafusion               45 mins             █████░░░░░░░░░░░░░░░░░░░░   22.48% 
-UnderTheGun-rs           31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.37% 
-lt-maker                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.22% 
-datafusion-function-revie15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.72%
+datafusion               45 mins             ██████████░░░░░░░░░░░░░░░   40.71% 
+lt-maker                 31 mins             ███████░░░░░░░░░░░░░░░░░░   27.56% 
+datafusion-function-revie15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98% 
+cxyfreedom               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.33% 
+RAG Github Documentation 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.71%
 
 ```
 
@@ -114,7 +114,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026
+ Last Updated on 18/09/2026
 <!--END_SECTION:waka-->
 
 <!--
