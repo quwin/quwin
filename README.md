@@ -43,13 +43,13 @@ A Computer Science senior at CSUS focused on database systems, distributed syste
 <!-- ![](./profile/stats.svg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 371 Contributions in the Year 2026
+> 🏆 373 Contributions in the Year 2026
  > 
 > 📦 880.2 kB Used in GitHub's Storage 
  > 
@@ -86,18 +86,17 @@ Sunday       107 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     1 hr 1 min          ███████████████████░░░░░░   76.78% 
-Python                   9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.57% 
-TeX                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.21% 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
+Rust                     1 hr 1 min          ███████████████████░░░░░░   78.58% 
+Python                   9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.84% 
+TeX                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.33% 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.26%
 
 🐱‍💻 Projects: 
-datafusion               45 mins             ██████████████░░░░░░░░░░░   57.16% 
-datafusion-function-revie15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.63% 
-implant-tracker          9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.57% 
-RAG Github Documentation 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.21% 
-Agents                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.74%
+datafusion               45 mins             ██████████████░░░░░░░░░░░   58.49% 
+datafusion-function-revie15 mins             █████░░░░░░░░░░░░░░░░░░░░   20.08% 
+implant-tracker          10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.74% 
+RAG Github Documentation 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.33% 
+Agents                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35%
 
 ```
 
@@ -114,7 +113,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026
+ Last Updated on 20/09/2026
 <!--END_SECTION:waka-->
 
 <!--
