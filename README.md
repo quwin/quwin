@@ -17,27 +17,20 @@ A Computer Science senior at CSUS focused on database systems, distributed syste
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,rust,cpp,c,go,java,ts,js,html,css" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=rust,cpp,python,go,sql,cuda" alt="Systems and query engineering"/>
 </p>
 
-### Full-Stack
+### Databases & Data Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,nextjs,nodejs,tailwind,bootstrap" alt="Full-stack"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis" alt="Databases and data infrastructure"/>
 </p>
 
-### Cloud, DevOps & Infrastructure
+### Infrastructure & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,nginx,linux" alt="Cloud and infrastructure"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,fastapi" alt="Infrastructure and APIs"/>
 </p>
-
-### Databases, Data & AI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,pytorch,sklearn" alt="Databases and AI"/>
-</p>
-
 ## Stats
 
 <!-- ![](./profile/stats.svg) -->
