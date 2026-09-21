@@ -1,6 +1,6 @@
 # Hi, I'm Ethan Tran
 
-A full-stack computer science junior at California State University - Sacramento, I love designing, developing, and optimizing high-performance infrastructure, parallelizable architecture, and scalable data pipelines.
+A Computer Science senior at CSUS focused on database systems, distributed systems, and performance-oriented software engineering. I’m especially interested in query engines, storage systems, execution engines, and the low-level infrastructure that makes data-intensive systems fast and reliable.
 
 ## About Me
 
@@ -43,41 +43,41 @@ A full-stack computer science junior at California State University - Sacramento
 <!-- ![](./profile/stats.svg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 358 Contributions in the Year 2026
+> 🏆 374 Contributions in the Year 2026
  > 
-> 📦 853.3 kB Used in GitHub's Storage 
+> 📦 880.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 33 Public Repositories 
+> 📜 39 Public Repositories 
  > 
-> 🔑 12 Private Repositories  
+> 🔑 16 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    200 commits    █████████░░░░░░░░░░░░░░░░   36.17% 
-🌆 Daytime    169 commits    ███████░░░░░░░░░░░░░░░░░░   30.56% 
-🌃 Evening    170 commits    ███████░░░░░░░░░░░░░░░░░░   30.74% 
-🌙 Night      14 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.53%
+🌞 Morning    239 commits    █████████░░░░░░░░░░░░░░░░   38.12% 
+🌆 Daytime    202 commits    ████████░░░░░░░░░░░░░░░░░   32.22% 
+🌃 Evening    176 commits    ███████░░░░░░░░░░░░░░░░░░   28.07% 
+🌙 Night      10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59%
 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.38% 
-Tuesday      97 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.54% 
-Wednesday    75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
-Thursday     81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.65% 
-Friday       58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.49% 
-Saturday     71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.84% 
-Sunday       97 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.54%
+Monday       79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.6% 
+Tuesday      103 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.43% 
+Wednesday    84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.4% 
+Thursday     96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.31% 
+Friday       80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.76% 
+Saturday     78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
+Sunday       107 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.07%
 
 ```
 
@@ -86,29 +86,34 @@ Sunday       97 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 mins              ██████████████████████░░░   87.9% 
-Git                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   11.33% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77%
+Rust                     1 hr 1 min          ███████████████████░░░░░░   78.58% 
+Python                   9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.84% 
+TeX                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.33% 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.26%
 
 🐱‍💻 Projects: 
-quwin.dev                6 mins              █████████████████████████   100.0%
+datafusion               45 mins             ██████████████░░░░░░░░░░░   58.49% 
+datafusion-function-revie15 mins             █████░░░░░░░░░░░░░░░░░░░░   20.08% 
+implant-tracker          10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.74% 
+RAG Github Documentation 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.33% 
+Agents                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35%
 
 ```
 
-**I Mostly Code in Rust** 
+**I Mostly Code in Python** 
 
 ```text
-Rust                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   26.92% 
-C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+Python                   10 repos            ███████░░░░░░░░░░░░░░░░░░   29.41% 
+Rust                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53% 
+C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
 
 ```
 
 
 
- Last Updated on 22/07/2026
+ Last Updated on 21/09/2026
 <!--END_SECTION:waka-->
 
 <!--
