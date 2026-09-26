@@ -79,18 +79,18 @@ Sunday       107 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   43.46% 
-Python                   1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   25.8% 
-Rust                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
-Other                    42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
-Diff                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
+Markdown                 2 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   38.16% 
+Python                   1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   20.95% 
+Other                    52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
+Rust                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66% 
+Swift                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.38%
 
 🐱‍💻 Projects: 
-implant-tracker          1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   26.65% 
-Agents                   1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   24.09% 
-datafusion               1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   20.27% 
-let-s-set-up-a-scheduled-38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.9% 
-en                       29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.31%
+implant-tracker          2 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   34.73% 
+Agents                   1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   20.98% 
+datafusion               1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+let-s-set-up-a-scheduled-38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.5% 
+en                       29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.24%
 
 ```
 
@@ -107,7 +107,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026
+ Last Updated on 26/09/2026
 <!--END_SECTION:waka-->
 
 <!--
