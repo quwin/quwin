@@ -36,15 +36,15 @@ A Computer Science senior at CSUS focused on database systems, distributed syste
 <!-- ![](./profile/stats.svg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 472 Contributions in the Year 2026
+> 🏆 473 Contributions in the Year 2026
  > 
-> 📦 880.5 kB Used in GitHub's Storage 
+> 📦 880.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -79,10 +79,17 @@ Sunday       109 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    37 mins             ████████░░░░░░░░░░░░░░░░░   32.28% 
+Python                   31 mins             ██████░░░░░░░░░░░░░░░░░░░   27.21% 
+Markdown                 23 mins             █████░░░░░░░░░░░░░░░░░░░░   20.14% 
+C++                      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91% 
+C                        8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.46%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+implant-tracker          35 mins             ███████░░░░░░░░░░░░░░░░░░   30.69% 
+OpenSourceContributions  33 mins             ███████░░░░░░░░░░░░░░░░░░   28.8% 
+bustub                   23 mins             █████░░░░░░░░░░░░░░░░░░░░   20.37% 
+Technical Interviews     23 mins             █████░░░░░░░░░░░░░░░░░░░░   20.14%
 
 ```
 
@@ -99,7 +106,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026
+ Last Updated on 09/10/2026
 <!--END_SECTION:waka-->
 
 <!--
