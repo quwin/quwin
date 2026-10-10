@@ -36,13 +36,13 @@ A Computer Science senior at CSUS focused on database systems, distributed syste
 <!-- ![](./profile/stats.svg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 473 Contributions in the Year 2026
+> 🏆 474 Contributions in the Year 2026
  > 
 > 📦 880.4 kB Used in GitHub's Storage 
  > 
@@ -55,22 +55,22 @@ A Computer Science senior at CSUS focused on database systems, distributed syste
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    271 commits    ██████████░░░░░░░░░░░░░░░   40.27% 
-🌆 Daytime    216 commits    ████████░░░░░░░░░░░░░░░░░   32.1% 
-🌃 Evening    177 commits    ██████░░░░░░░░░░░░░░░░░░░   26.3% 
+🌞 Morning    269 commits    ██████████░░░░░░░░░░░░░░░   40.03% 
+🌆 Daytime    217 commits    ████████░░░░░░░░░░░░░░░░░   32.29% 
+🌃 Evening    177 commits    ██████░░░░░░░░░░░░░░░░░░░   26.34% 
 🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.34%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.44% 
-Tuesday      117 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.38% 
-Wednesday    114 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.94% 
-Thursday     92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.67% 
-Friday       86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.78% 
-Saturday     78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.59% 
-Sunday       109 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.2%
+Monday       77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.46% 
+Tuesday      117 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.41% 
+Wednesday    112 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Thursday     92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
+Friday       87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.95% 
+Saturday     78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
+Sunday       109 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.22%
 
 ```
 
@@ -79,17 +79,18 @@ Sunday       109 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    37 mins             ████████░░░░░░░░░░░░░░░░░   32.28% 
-Python                   31 mins             ██████░░░░░░░░░░░░░░░░░░░   27.21% 
-Markdown                 23 mins             █████░░░░░░░░░░░░░░░░░░░░   20.14% 
-C++                      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91% 
-C                        8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.46%
+C++                      44 mins             ███████░░░░░░░░░░░░░░░░░░   28.13% 
+Other                    37 mins             █████░░░░░░░░░░░░░░░░░░░░   23.23% 
+Python                   31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.58% 
+C                        25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.18% 
+Markdown                 20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.88%
 
 🐱‍💻 Projects: 
-implant-tracker          35 mins             ███████░░░░░░░░░░░░░░░░░░   30.69% 
-OpenSourceContributions  33 mins             ███████░░░░░░░░░░░░░░░░░░   28.8% 
-bustub                   23 mins             █████░░░░░░░░░░░░░░░░░░░░   20.37% 
-Technical Interviews     23 mins             █████░░░░░░░░░░░░░░░░░░░░   20.14%
+bustub                   1 hr 10 mins        ███████████░░░░░░░░░░░░░░   44.26% 
+implant-tracker          35 mins             █████░░░░░░░░░░░░░░░░░░░░   22.09% 
+OpenSourceContributions  33 mins             █████░░░░░░░░░░░░░░░░░░░░   20.72% 
+Technical Interviews     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.88% 
+RAG Github Documentation 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 ```
 
@@ -106,7 +107,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026
+ Last Updated on 10/10/2026
 <!--END_SECTION:waka-->
 
 <!--
