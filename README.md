@@ -42,7 +42,7 @@ A Computer Science senior at CSUS focused on database systems, distributed syste
 
 **🐱 My GitHub Data** 
 
-> 🏆 512 Contributions in the Year 2026
+> 🏆 513 Contributions in the Year 2026
  > 
 > 📦 880.6 kB Used in GitHub's Storage 
  > 
@@ -79,17 +79,17 @@ Sunday       109 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   35.03% 
-Other                    1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   33.09% 
-Python                   31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.79% 
-C                        28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.09%
+C++                      1 hr 29 mins        ██████████░░░░░░░░░░░░░░░   42.46% 
+Other                    1 hr 25 mins        ██████████░░░░░░░░░░░░░░░   40.48% 
+C                        30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.62% 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44%
 
 🐱‍💻 Projects: 
-bustub                   1 hr 33 mins        ████████████░░░░░░░░░░░░░   50.08% 
-implant-tracker          57 mins             ███████░░░░░░░░░░░░░░░░░░   30.73% 
-OpenSourceContributions  33 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.77% 
-perio_kpt_data           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38% 
-RAG Github Documentation 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+bustub                   2 hrs               ██████████████░░░░░░░░░░░   57.04% 
+OpenSourceContributions  1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   28.86% 
+implant-tracker          21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.4% 
+Technical Interviews     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44% 
+perio_kpt_data           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22%
 
 ```
 
@@ -106,7 +106,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026
+ Last Updated on 15/10/2026
 <!--END_SECTION:waka-->
 
 <!--
