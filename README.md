@@ -6,11 +6,9 @@ A Computer Science senior at CSUS focused on database systems, distributed syste
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=quwin.quwin)](https://visitor-badge.laobi.icu/badge?page_id=quwin.quwin)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kien-ethan-tran/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://quwin.dev)
 [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:ethantran@quwin.dev)
 [![Resume Badge](https://img.shields.io/badge/-Resume-4B5563?style=flat&logo=readme&logoColor=white)](https://github.com/quwin/quwin/blob/main/profile/Ethan%20Tran%20Resume.pdf)
 [![](https://img.shields.io/github/stars/quwin?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=quwin&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
-[![](https://img.shields.io/github/followers/quwin?color=27da6b&logo=Handshake)](https://github.com/quwin?tab=followers)
 
 ## Technology Stack
 
