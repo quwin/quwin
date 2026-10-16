@@ -36,7 +36,7 @@ A Computer Science senior at CSUS focused on database systems, distributed syste
 <!-- ![](./profile/stats.svg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
@@ -79,17 +79,17 @@ Sunday       109 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      1 hr 29 mins        ██████████░░░░░░░░░░░░░░░   42.46% 
-Other                    1 hr 25 mins        ██████████░░░░░░░░░░░░░░░   40.48% 
-C                        30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.62% 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44%
+Other                    1 hr 40 mins        ████████████░░░░░░░░░░░░░   49.41% 
+C++                      1 hr 15 mins        █████████░░░░░░░░░░░░░░░░   37.12% 
+C                        22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.53%
 
 🐱‍💻 Projects: 
-bustub                   2 hrs               ██████████████░░░░░░░░░░░   57.04% 
-OpenSourceContributions  1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   28.86% 
-implant-tracker          21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.4% 
-Technical Interviews     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44% 
-perio_kpt_data           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22%
+bustub                   1 hr 38 mins        ████████████░░░░░░░░░░░░░   48.02% 
+OpenSourceContributions  1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   29.9% 
+implant-tracker          21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.78% 
+Technical Interviews     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.86% 
+quwin                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.15%
 
 ```
 
@@ -106,7 +106,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026
+ Last Updated on 16/10/2026
 <!--END_SECTION:waka-->
 
 <!--
