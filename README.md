@@ -34,7 +34,7 @@ A Computer Science senior at CSUS focused on database systems, distributed syste
 <!-- ![](./profile/stats.svg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
@@ -77,17 +77,18 @@ Sunday       109 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 18 mins       ████████████████████░░░░░   82.48% 
-C++                      44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.27% 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.65% 
-C                        5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6%
+Other                    3 hrs 41 mins       ████████████░░░░░░░░░░░░░   47.88% 
+Python                   2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   26.63% 
+Rust                     1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.25% 
+C++                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.27% 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36%
 
 🐱‍💻 Projects: 
-OpenSourceContributions  3 hrs 39 mins       █████████████████░░░░░░░░   69.79% 
-bustub                   49 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.88% 
-implant-tracker          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.01% 
-Technical Interviews     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.11% 
-quwin                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4%
+OpenSourceContributions  3 hrs 39 mins       ███████████░░░░░░░░░░░░░░   47.25% 
+Agents                   2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   27.02% 
+datafusion               1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.11% 
+bustub                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.87% 
+Technical Interviews     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74%
 
 ```
 
@@ -104,7 +105,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026
+ Last Updated on 18/10/2026
 <!--END_SECTION:waka-->
 
 <!--
