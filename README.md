@@ -40,7 +40,7 @@ A Computer Science senior at CSUS focused on database systems, distributed syste
 
 **🐱 My GitHub Data** 
 
-> 🏆 518 Contributions in the Year 2026
+> 🏆 521 Contributions in the Year 2026
  > 
 > 📦 880.7 kB Used in GitHub's Storage 
  > 
@@ -53,22 +53,22 @@ A Computer Science senior at CSUS focused on database systems, distributed syste
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    269 commits    ██████████░░░░░░░░░░░░░░░   40.09% 
-🌆 Daytime    223 commits    ████████░░░░░░░░░░░░░░░░░   33.23% 
-🌃 Evening    173 commits    ██████░░░░░░░░░░░░░░░░░░░   25.78% 
+🌞 Morning    271 commits    ██████████░░░░░░░░░░░░░░░   40.33% 
+🌆 Daytime    223 commits    ████████░░░░░░░░░░░░░░░░░   33.18% 
+🌃 Evening    172 commits    ██████░░░░░░░░░░░░░░░░░░░   25.6% 
 🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.37% 
-Tuesday      112 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.69% 
-Wednesday    100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.9% 
-Thursday     87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.97% 
-Friday       85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.67% 
-Saturday     95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.16% 
-Sunday       109 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.24%
+Monday       82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
+Tuesday      116 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.26% 
+Wednesday    100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.88% 
+Thursday     87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.95% 
+Friday       85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
+Saturday     95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.14% 
+Sunday       107 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.92%
 
 ```
 
@@ -77,18 +77,18 @@ Sunday       109 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 39 mins       ████████████░░░░░░░░░░░░░   47.55% 
-Python                   2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   26.8% 
-Rust                     1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
-C++                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.31% 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37%
+Other                    3 hrs 42 mins       ███████████░░░░░░░░░░░░░░   44.14% 
+Python                   2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.53% 
+Rust                     1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   19.51% 
+C++                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.86% 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.0%
 
 🐱‍💻 Projects: 
-OpenSourceContributions  3 hrs 39 mins       ████████████░░░░░░░░░░░░░   47.55% 
-Agents                   2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   27.19% 
-datafusion               1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.23% 
-bustub                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.91% 
-Technical Interviews     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12%
+OpenSourceContributions  3 hrs 39 mins       ███████████░░░░░░░░░░░░░░   43.53% 
+Agents                   2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   30.37% 
+datafusion               1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   19.67% 
+bustub                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+Technical Interviews     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03%
 
 ```
 
@@ -105,7 +105,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026
+ Last Updated on 21/10/2026
 <!--END_SECTION:waka-->
 
 <!--
