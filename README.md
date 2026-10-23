@@ -40,7 +40,7 @@ A Computer Science senior at CSUS focused on database systems, distributed syste
 
 **🐱 My GitHub Data** 
 
-> 🏆 525 Contributions in the Year 2026
+> 🏆 534 Contributions in the Year 2026
  > 
 > 📦 880.8 kB Used in GitHub's Storage 
  > 
@@ -77,17 +77,17 @@ Sunday       107 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   37.55% 
-Python                   2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.13% 
-Java                     1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.06% 
-Rust                     1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.32% 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.93%
+Other                    2 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.93% 
+Python                   2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   23.04% 
+Java                     1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   20.78% 
+Rust                     1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.79% 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.29%
 
 🐱‍💻 Projects: 
-OpenSourceContributions  3 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   37.04% 
-Agents                   2 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   27.44% 
-ETCSC133                 1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.06% 
-datafusion               1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.46%
+OpenSourceContributions  2 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   31.37% 
+Agents                   2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   29.91% 
+ETCSC133                 1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   20.78% 
+datafusion               1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.94%
 
 ```
 
@@ -104,7 +104,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026
+ Last Updated on 23/10/2026
 <!--END_SECTION:waka-->
 
 <!--
