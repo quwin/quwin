@@ -77,17 +77,17 @@ Sunday       107 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.93% 
-Python                   2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   23.04% 
-Java                     1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   20.78% 
-Rust                     1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.79% 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.29%
+Python                   2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   32.28% 
+Java                     1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   29.11% 
+Rust                     1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   24.93% 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.01% 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.62%
 
 🐱‍💻 Projects: 
-OpenSourceContributions  2 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   31.37% 
-Agents                   2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   29.91% 
-ETCSC133                 1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   20.78% 
-datafusion               1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.94%
+Agents                   2 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   41.92% 
+ETCSC133                 1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   29.11% 
+datafusion               1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   25.13% 
+OpenSourceContributions  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.84%
 
 ```
 
@@ -104,7 +104,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026
+ Last Updated on 24/10/2026
 <!--END_SECTION:waka-->
 
 <!--
