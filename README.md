@@ -77,15 +77,10 @@ Sunday       107 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     15 mins             ████████░░░░░░░░░░░░░░░░░   35.4% 
-Rust                     13 mins             ████████░░░░░░░░░░░░░░░░░   31.82% 
-PowerShell               9 mins              █████░░░░░░░░░░░░░░░░░░░░   22.12% 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.23% 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.43%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Agents                   27 mins             ████████████████░░░░░░░░░   64.75% 
-datafusion               15 mins             ████████░░░░░░░░░░░░░░░░░   35.25%
+No Activity Tracked This Week
 
 ```
 
@@ -102,7 +97,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026
+ Last Updated on 28/10/2026
 <!--END_SECTION:waka-->
 
 <!--
